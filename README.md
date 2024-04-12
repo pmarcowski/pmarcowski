@@ -3,7 +3,7 @@ I use data to find answers, solve problems, and make things more interesting.**
 
 #### Skills
 
-<img src="icons/r.svg" alt="R" width="20" height="20"/> R <img src="icons/python.svg" alt="Python" width="20" height="20"/> Python <img src="icons/sql.svg" alt="SQL" width="20" height="20"/> SQL <img src="icons/shiny.svg" alt="Shiny" width="20" height="20"/> Shiny <img src="icons/data_science.svg" alt="Data Science" width="20" height="20"/> Data Science <img src="icons/statistics.svg" alt="Data Analysis" width="20" height="20"/> Data Analysis<br> <img src="icons/machine_learning.svg" alt="Machine Learning" width="20" height="20"/> Machine Learning <img src="icons/experiment.svg" alt="Experimental Design" width="20" height="20"/> Experimental Design
+<img src="icons/r.svg" alt="R" width="20" height="20"/> R <img src="icons/python.svg" alt="Python" width="20" height="20"/> Python <img src="icons/sql.svg" alt="SQL" width="20" height="20"/> SQL <img src="icons/shiny.svg" alt="Shiny" width="20" height="20"/> Shiny <img src="icons/data_science.svg" alt="Data Science" width="20" height="20"/> Data Science<br> <img src="icons/statistics.svg" alt="Data Analysis" width="20" height="20"/> Data Analysis <img src="icons/machine_learning.svg" alt="Machine Learning" width="20" height="20"/> Machine Learning <img src="icons/experiment.svg" alt="Experimental Design" width="20" height="20"/> Experimental Design
 
 #### Explore my work
 
