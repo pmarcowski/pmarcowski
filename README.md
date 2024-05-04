@@ -7,7 +7,7 @@ I use data to find answers, solve problems, and make things more interesting.**
 
 #### Explore my work
 
-<a href="https://przemyslawmarcowski.com/" target="_blank"><img src="icons/personal.svg" alt="Personal Website" width="20" height="20"/></a> <a href="https://przemyslawmarcowski.com/" target="_blank">[Personal Website]</a> <a href="https://www.linkedin.com/in/przemyslaw-marcowski/" target="_blank"><img src="icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/przemyslaw-marcowski/" target="_blank">[LinkedIn]</a> <a href="https://scholar.google.com/citations?user=sB2hWn0AAAAJ&hl=en" target="_blank"><img src="icons/googlescholar.svg" alt="Google Scholar" width="20" height="20"/></a> <a href="https://scholar.google.com/citations?user=sB2hWn0AAAAJ&hl=en" target="_blank">[Google Scholar]</a>
+<a href="https://www.linkedin.com/in/przemyslaw-marcowski/" target="_blank"><img src="icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/przemyslaw-marcowski/" target="_blank">[LinkedIn]</a> <a href="https://scholar.google.com/citations?user=sB2hWn0AAAAJ&hl=en" target="_blank"><img src="icons/googlescholar.svg" alt="Google Scholar" width="20" height="20"/></a> <a href="https://scholar.google.com/citations?user=sB2hWn0AAAAJ&hl=en" target="_blank">[Google Scholar]</a>
 
 #### Curious how to pronounce my name? [Find out here.](https://www.howtopronounce.com/przemek)
 
