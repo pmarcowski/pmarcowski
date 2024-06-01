@@ -9,6 +9,4 @@ I use data to find answers, solve problems, and make things more interesting.**
 
 <a href="https://www.linkedin.com/in/przemyslaw-marcowski/" target="_blank"><img src="icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/przemyslaw-marcowski/" target="_blank">[LinkedIn]</a> <a href="https://scholar.google.com/citations?user=sB2hWn0AAAAJ&hl=en" target="_blank"><img src="icons/googlescholar.svg" alt="Google Scholar" width="20" height="20"/></a> <a href="https://scholar.google.com/citations?user=sB2hWn0AAAAJ&hl=en" target="_blank">[Google Scholar]</a>
 
-#### Curious how to pronounce my name? [Find out here.](https://www.howtopronounce.com/przemek)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&custom_title=Top%20languages&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
