@@ -1,5 +1,4 @@
 ### Hi, I'm Przemek <img src="https://raw.githubusercontent.com/pmarcowski/pmarcowski/main/icons/hello.svg" alt="Hello" width="20" height="20"/>
-
 🔢 **A computational scientist, specializing in data science and analytics**<br>
 🔍 **I use data to find answers, solve problems, and make things more interesting**
 
@@ -22,4 +21,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2671E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/przemyslaw-marcowski/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-2671E5?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.pl/citations?user=sB2hWn0AAAAJ&hl=en)
 
-💬 Ping me about **data science**, **machine learning**, **statistical modeling**, **scientific programming**
+💬 `ping` me about **data science**, **machine learning**, **statistical modeling**, **scientific programming**
