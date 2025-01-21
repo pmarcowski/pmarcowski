@@ -1,5 +1,5 @@
 ### Hi, I'm Przemek <img src="https://raw.githubusercontent.com/pmarcowski/pmarcowski/main/icons/hello.svg" alt="Hello" width="20" height="20"/>
-🔢 **A computational scientist, specializing in data science and analytics**<br>
+🔢 **A quantitative researcher, specializing in data science and analytics**<br>
 🔍 **I use data to find answers, solve problems, and make things more interesting**
 
 #### Skills
