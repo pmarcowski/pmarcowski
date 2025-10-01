@@ -1,6 +1,6 @@
 ### Hi, I'm Przemek <img src="https://raw.githubusercontent.com/pmarcowski/pmarcowski/main/icons/hello.svg" alt="Hello" width="20" height="20"/>
 🔢 **Applied scientist — data science • quantitative methods • decision science**<br>
-🔗 **scope ▸ build ▸ ship: ETL/ELT, ML/AI, decision-ready analytics**
+🔗 **design ▸ prototype ▸ validate: ETL/ELT, ML/AI, decision-ready analytics**
 
 #### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&hide_title=true&hide_border=false&bg_color=00000000&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
