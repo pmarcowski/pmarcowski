@@ -3,7 +3,7 @@
 🔗 **design ▸ prototype ▸ validate: ETL/ELT, ML/AI, decision-ready analytics**
 
 #### Top Languages
-[![Top Langs](https://github-readme-stats-ftgdx8u2a-pmarcowskis-projects.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&hide_title=true&hide_border=false&bg_color=00000000&hide=jupyter%20notebook&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-kohl-80.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&hide_title=true&hide_border=false&bg_color=00000000&hide=jupyter%20notebook&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Connect with Me
 [![Website](https://img.shields.io/badge/Website-2671E5?style=flat-square&logo=Chainlink&logoColor=white)](https://pmarcowski.com/)
