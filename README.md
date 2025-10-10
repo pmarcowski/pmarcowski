@@ -7,10 +7,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-one-kohl-80.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&hide_title=true&count_private=true&hide=jupyter%20notebook&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=484F58&border_radius=10&colors=58A6FF,3FB950,F78166,BC8CFF,FFD43B,79C0FF"
+      srcset="https://github-readme-stats-one-kohl-80.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&hide_title=true&count_private=true&hide=jupyter%20notebook&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=484F58&border_radius=10&colors=58A6FF,3FB950,F78166,BC8CFF,FFD43B,79C0FF&include_orgs=true"
     />
     <img
-      src="https://github-readme-stats-one-kohl-80.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&hide_title=true&count_private=true&hide=jupyter%20notebook&bg_color=F6F8FA&title_color=0969DA&text_color=24292E&icon_color=0969DA&border_color=D0D7DE&border_radius=10&colors=0969DA,3FB950,F78166,BC8CFF,FFD43B,79C0FF"
+      src="https://github-readme-stats-one-kohl-80.vercel.app/api/top-langs/?username=pmarcowski&layout=compact&hide_title=true&count_private=true&hide=jupyter%20notebook&bg_color=F6F8FA&title_color=0969DA&text_color=24292E&icon_color=0969DA&border_color=D0D7DE&border_radius=10&colors=0969DA,3FB950,F78166,BC8CFF,FFD43B,79C0FF&include_orgs=true"
     />
   </picture>
 </a>
