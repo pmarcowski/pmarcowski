@@ -1,5 +1,5 @@
 ### Hi, I'm Przemek <img src="https://raw.githubusercontent.com/pmarcowski/pmarcowski/main/icons/hello.svg" alt="Hello" width="20" height="20"/>
-🔢 **Applied scientist — data science • quantitative methods • decision science**<br>
+🔢 **Applied Scientist — data science • quantitative methods • decision science**<br>
 🔗 **design ▸ prototype ▸ validate: ETL/ELT, ML/AI, decision-ready analytics**
 
 #### Top Languages
