@@ -1,0 +1,43 @@
+name: Update Languages card
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure output directory exists
+        run: mkdir -p profile
+
+      - name: Generate Top Languages (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: 'username=pmarcowski&layout=compact&hide_title=true&count_private=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=484F58&border_radius=10&colors=58A6FF,3FB950,F78166,BC8CFF,FFD43B,79C0FF&include_orgs=true'
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.README_STATS_PAT }}
+
+      - name: Generate Top Languages (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: 'username=pmarcowski&layout=compact&hide_title=true&count_private=true&bg_color=F6F8FA&title_color=0969DA&text_color=242E&icon_color=0969DA&border_color=D0D7DE&border_radius=10&colors=0969DA,3FB950,F78166,BC8CFF,FFD43B,79C0FF&include_orgs=true'
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.README_STATS_PAT }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs-*.svg
+          git diff --cached --quiet || git commit -m "Update top languages card"
+          git push
