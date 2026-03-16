@@ -1,5 +1,5 @@
 ### Hi, I'm Przemek <img src="https://raw.githubusercontent.com/pmarcowski/pmarcowski/main/icons/hello.svg" alt="Hello" width="20" height="20"/>
-✨ **Computational Scientist — data science • decision science • human signals • ML/AI**<br>
+✨ **Computational Scientist — data science • decision science • ML/AI**<br>
 ⚙️ **I build things that help ask better questions**
 
 #### Top Languages
